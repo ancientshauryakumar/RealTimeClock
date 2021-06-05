@@ -1,0 +1,19 @@
+.container{
+    font-size: 50px;
+    border: 2px solid black;
+    display: block;
+    text-align: center;
+    color: rgb(255, 2, 2);
+    background-color: rgb(17, 17, 17);
+    border-radius: 35px;
+    padding: 15px;
+}
+.clock{
+    /* border: 2px solid black; */
+    margin: auto;
+    width: 60%;
+    margin-top: 140px;
+}
+body{
+    background-color: rgb(218, 216, 216);
+}
